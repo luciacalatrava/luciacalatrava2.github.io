@@ -1,0 +1,24 @@
+* {
+  color: black;
+  background-color: rgb(224, 217, 217);
+}
+.pie {
+  text-align: center;
+  background-color: rgb(135, 180, 194);
+  margin: 20px auto;
+  border: 1px solid rgb(0, 0, 0);
+}
+.vertical {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.verticalli {
+  display: block;
+  float: left;
+  padding: 0 10px;
+  text-align: center;
+}
+.contenido {
+  margin: auto;
+}
